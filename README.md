@@ -10,8 +10,8 @@ https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz
 Put the 2 files cora.cites and cora.content inside Active_Learning directory
 
 ## Installing libraries
-pip install torch &nbsp
-pip install networkx $nbsp
+pip install torch <br />
+pip install networkx <br />
 pip install dgl
 
 ## Run the code using the following command
